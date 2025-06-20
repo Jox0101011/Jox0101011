@@ -6,6 +6,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Jox0101011&color=blueviolet)
 ![Last Commit](https://img.shields.io/github/last-commit/Jox0101011/Jox0101011?color=bc13fe&style=for-the-badge)
 ![Languages](https://img.shields.io/github/languages/top/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
+![Stars](https://img.shields.io/github/stars/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
+![Forks](https://img.shields.io/github/forks/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
+![Issues](https://img.shields.io/github/issues/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 
 ---
 

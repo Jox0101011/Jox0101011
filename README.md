@@ -39,11 +39,15 @@
 
 # [~] Informações tecnicas sobre mim
 <p1> comecei a estudar sobre linux, git, programação, hacking desde dos meus 11 anos ja tinha um interesse e foi com 13 que eu mudei pra um linux para ficar mesmo, agora estou em projetos como o ecosistemas da nimble: NimbleOS, Inocess-Player, entre outros que estarão por vir, espero que gostem. </p1>
+---
+
 ## 🚀 Atualmente estudando
 
-- 🌱 Sempre aprendendo algo novo  
-- 🔐 Cibersegurança ofensiva
-- 🐧 Automatizando tarefas no Linux 
+- 🌱 *Sempre aprendendo algo novo*
+- 🔐 **Cibersegurança ofensiva**
+- ⭐ **Construção de Novas ferramentas**
+- 🔥 **Linguagens diferentes**
+- 🐧 **Automatizando tarefas no Linux** 
 
 ---
 

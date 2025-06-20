@@ -4,7 +4,8 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jox0101011&color=blueviolet)
-![Build Status](https://img.shields.io/github/actions/workflow/status/Jox0101011/repo-nome/ci.yml?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Jox0101011/Jox0101011?color=bc13fe&style=for-the-badge)
+
 
 ---
 

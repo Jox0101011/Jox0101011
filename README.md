@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdhdHRxeTJoN2VkcW83NmZnOHNidDlrdHgydW11NnNpM2dhNmp0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrvyxMu3zhG8KXgHdm/giphy.gif" width=400 />
 </p>
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jox0101011&color=blueviolet)
@@ -9,14 +10,16 @@
 ![Stars](https://img.shields.io/github/stars/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ![Forks](https://img.shields.io/github/forks/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ![Issues](https://img.shields.io/github/issues/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
-
-
 ---
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![Hack The Planet](https://img.shields.io/badge/Hack_the_planet-black?style=for-the-badge&logo=protonmail&logoColor=white)
+![Hacker](https://img.shields.io/badge/Hack_the_Planet-000000?style=for-the-badge&logo=protonmail&logoColor=white)
+![Powered by Arch Linux](https://img.shields.io/badge/Powered_by-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Neovim User](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Terminal Addicted](https://img.shields.io/badge/Living_in-the_terminal-000000?style=for-the-badge)
 ---
 
 <p align="center">

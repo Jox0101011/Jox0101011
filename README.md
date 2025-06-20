@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" width="50" />
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ruby/ruby-original.svg" width=50 />
 <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50"/> 
 <img src="https://simpleicons.org/icons/wireshark.svg" width="40px"/>
 <img src="https://simpleicons.org/icons/torproject.svg" width="40px"/>

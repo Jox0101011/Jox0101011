@@ -3,6 +3,11 @@
 </p>
 
 ---
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![Hack The Planet](https://img.shields.io/badge/Hack_the_planet-black?style=for-the-badge&logo=protonmail&logoColor=white)
+---
 
 
 [+] Linux User <br>

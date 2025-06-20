@@ -82,8 +82,11 @@
 </p>
 
 ---
+# Contatos
 
 [emperorhazer@proton.me](mailto:emperorhazer@proton.me) 
+[youtube](https://www.youtube.com/@emperorandcupcake)
+---
 # feito por Jox0101011 baseado no Cosme-R
 <!---
 Jox0101011/Jox0101011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

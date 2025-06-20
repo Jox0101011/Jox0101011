@@ -91,7 +91,7 @@
 ---
 
 # feito por Jox0101011 baseado no Cosme-R
-[![GitHub](https://img.shields.io/badge/GitHub-Jox0101011-000?style=for-the-badge&logo=github)](https://github.com/Cosme-R)
+[![GitHub](https://img.shields.io/badge/GitHub-CosmeR-000?style=for-the-badge&logo=github)](https://github.com/Cosme-R)
 <!---
 Jox0101011/Jox0101011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

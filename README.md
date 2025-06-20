@@ -9,6 +9,9 @@
 ![Hack The Planet](https://img.shields.io/badge/Hack_the_planet-black?style=for-the-badge&logo=protonmail&logoColor=white)
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BC13FE&center=true&width=435&lines=echo+%24whoami;sudo+hacker;automating+everything;Linux+enthusiast;Offensive+Security+lover" alt="Typing SVG" />
+</p>
 
 [+] Linux User <br>
 [+] Entusiasta de hacking

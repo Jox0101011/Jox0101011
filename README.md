@@ -26,19 +26,19 @@
 </p>
 
 # [+] Linux User <br>
-<p1> sou usuario veterano de linux, comecei pelo lubuntu, fiquei 2 semanas nele, depois fui pro ubuntu, não gostei muito e fiquei por 1 semana também, fui pro debian, esse eu fiquei 3 meses me ajudou bastante mas eu precisava subir de level :D, então fui pro arch linux, e depois pro nyarch, minha DE/WM é o xfce ja usei gnome e hyprland tbm usei cinnamon e kde plasma, minha experiencia esta sendo incrivel. </p1>
+<p> sou usuario veterano de linux, comecei pelo lubuntu, fiquei 2 semanas nele, depois fui pro ubuntu, não gostei muito e fiquei por 1 semana também, fui pro debian, esse eu fiquei 3 meses me ajudou bastante mas eu precisava subir de level :D, então fui pro arch linux, e depois pro nyarch, minha DE/WM é o xfce ja usei gnome e hyprland tbm usei cinnamon e kde plasma, minha experiencia esta sendo incrivel. </p>
 ---
 
 # [+] Hacking is life
-<p1> comecei desde cedo a querer aprender sobre hacking, sim, ja fui lammer, não sou mais obviamente e bom não tem muito oque dizer aqui, e meu foco principal é a cyber sec e o hacking ofensivo, minhas ferramentas favoritas são as de exploits e rede </p1>
+<p> comecei desde cedo a querer aprender sobre hacking, sim, ja fui lammer, não sou mais obviamente e bom não tem muito oque dizer aqui, e meu foco principal é a cyber sec e o hacking ofensivo, minhas ferramentas favoritas são as de exploits e rede </p>
 ---
 
 # [+] Pro Player em Backend :P
-<p1> comecei a estudar backend desde cedo também por conta do hacking, eu aprendi primeiro foi shell, depois python, depois ruby e depois C e ASM, foi uma evolução até que boa </p1>
+<p> comecei a estudar backend desde cedo também por conta do hacking, eu aprendi primeiro foi shell, depois python, depois ruby e depois C e ASM, foi uma evolução até que boa </p>
 ---
 
 # [~] Informações tecnicas sobre mim
-<p1> comecei a estudar sobre linux, git, programação, hacking desde dos meus 11 anos ja tinha um interesse e foi com 13 que eu mudei pra um linux para ficar mesmo, agora estou em projetos como o ecosistemas da nimble: NimbleOS, Inocess-Player, entre outros que estarão por vir, espero que gostem. </p1>
+<p> comecei a estudar sobre linux, git, programação, hacking desde dos meus 11 anos ja tinha um interesse e foi com 13 que eu mudei pra um linux para ficar mesmo, agora estou em projetos como o ecosistemas da nimble: NimbleOS, Inocess-Player, entre outros que estarão por vir, espero que gostem. </p>
 ---
 
 ## 🚀 Atualmente estudando

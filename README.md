@@ -34,10 +34,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" width="50" />
 
 <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Wireshark_Logo.svg" width="50"/> 
-<img src="https://raw.githubusercontent.com/lorenzofiamingo/sqlmap-logo/master/sqlmap_logo.svg" width="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Metasploit_logo.png" width="50"/> 
-<img src="https://raw.githubusercontent.com/offensive-security/exploitdb/master/exploitdb-logo.png" width="50"/>
+<img src="https://simpleicons.org/icons/wireshark.svg" width="40px"/>
+<img src="https://simpleicons.org/icons/torproject.svg" width="40px"/>
 </p>
 
 

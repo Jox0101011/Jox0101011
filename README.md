@@ -42,6 +42,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
+  <img src="https://avatars.githubusercontent.com/u/121677241?s=200&v=4" width="60" alt="Nyarch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />

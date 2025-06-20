@@ -10,6 +10,7 @@
 ![Forks](https://img.shields.io/github/forks/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ![Issues](https://img.shields.io/github/issues/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 
+
 ---
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)

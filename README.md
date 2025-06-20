@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jox0101011&color=blueviolet)
 ![Last Commit](https://img.shields.io/github/last-commit/Jox0101011/Jox0101011?color=bc13fe&style=for-the-badge)
-
+![Languages](https://img.shields.io/github/languages/top/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 
 ---
 

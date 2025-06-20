@@ -85,7 +85,8 @@
 # Contatos
 
 [emperorhazer@proton.me](mailto:emperorhazer@proton.me) 
-[youtube](https://www.youtube.com/@emperorandcupcake)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emperorandcupcake)
 ---
 # feito por Jox0101011 baseado no Cosme-R
 <!---

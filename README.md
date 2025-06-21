@@ -86,7 +86,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emperorandcupcake)
 [![Email](https://img.shields.io/badge/email-emperorhazer@proton.me-8b00ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:emperorhazer@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vGyfFR7WHR)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GvxfYTc59g)
 
 ---
 

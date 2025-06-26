@@ -13,8 +13,6 @@
 ---
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
 ![Hacker](https://img.shields.io/badge/Hack_the_Planet-000000?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Powered by Arch Linux](https://img.shields.io/badge/Powered_by-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim User](https://img.shields.io/badge/Editor-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)

@@ -54,7 +54,6 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/121677241?s=200&v=4" width="60" alt="Nyarch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
@@ -66,8 +65,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg" width="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ruby/ruby-original.svg" width=50 />
 <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50"/> 
-<img src="https://simpleicons.org/icons/wireshark.svg" width="40px"/>
-<img src="https://simpleicons.org/icons/torproject.svg" width="40px"/>
 </p>
 
 

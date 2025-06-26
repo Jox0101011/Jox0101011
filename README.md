@@ -43,7 +43,8 @@
 
 - 🌱 *Sempre aprendendo algo novo*
 - 🔐 **Cibersegurança ofensiva**
-- ⭐ **Construção de Novas ferramentas**
+- ⛏️ **Construção de Novas ferramentas**
+- ⛏️ **Construção de exploits**
 - 🔥 **Linguagens diferentes**
 - 🐧 **Automatizando tarefas no Linux** 
 

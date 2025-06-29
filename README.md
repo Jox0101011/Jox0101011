@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdhdHRxeTJoN2VkcW83NmZnOHNidDlrdHgydW11NnNpM2dhNmp0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrvyxMu3zhG8KXgHdm/giphy.gif" width=400 />
+  <img src="https://tenor.com/pt-BR/view/mysterious-girlfriend-x-nazo-no-kanojo-x-urabe-mikoto-mikoto-urabe-gif-25189038" width=400 />
 </p>
 
 ---

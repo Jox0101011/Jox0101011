@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/p6S42Q8AvM4AAAAC/mysterious-girlfriend-x-nazo-no-kanojo-x.gif" width=400 />
+  <img src="https://media1.tenor.com/m/p6S42Q8AvM4AAAAC/mysterious-girlfriend-x-nazo-no-kanojo-x.gif" width=500 />
 </p>
 
 ---

@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/715dc9164225e8158c8c84a79867a368ed6a9651/hzr.svg" width=120>
-  </p>
-<p align="center">
   <img src="https://media1.tenor.com/m/p6S42Q8AvM4AAAAC/mysterious-girlfriend-x-nazo-no-kanojo-x.gif" width=500 />
 </p>
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jox0101011&color=blueviolet)
 ![Last Commit](https://img.shields.io/github/last-commit/Jox0101011/Jox0101011?color=bc13fe&style=for-the-badge)
@@ -91,7 +87,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/715dc9164225e8158c8c84a79867a368ed6a9651/hzr.svg" width=120>
   </p>
----
 
 ### feito por Jox0101011 baseado no Cosme-R 
 <p> Menção Honrosa </p>

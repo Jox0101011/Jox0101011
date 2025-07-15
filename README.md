@@ -84,6 +84,9 @@
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GvxfYTc59g)
 
 ---
+[![Donate](https://img.shields.io/badge/Donate-Bitcoin-orange)](bitcoin:bc1qky3el7p32a8yhualzrsk2c0r6e4k9a7d0r23r0)
+<p>Suport me</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/715dc9164225e8158c8c84a79867a368ed6a9651/hzr.svg" width=120>
   </p>

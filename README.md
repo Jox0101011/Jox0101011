@@ -69,7 +69,7 @@
 [![Donate](https://img.shields.io/badge/Donate-Bitcoin-orange)](#)
 
 **Bitcoin address:**  
-`bc1qky3el7p32a8yhualzrsk2c0r6e4k9a7d0r23r0`
+`bc1qc7mvj66qsy3urfjy6a5x987kqv9723p6e4s7g6`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/715dc9164225e8158c8c84a79867a368ed6a9651/hzr.svg" width=120>

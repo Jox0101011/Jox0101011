@@ -61,7 +61,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emperorandcupcake)
 [![Email](https://img.shields.io/badge/email-emperorhazer@proton.me-8b00ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:emperorhazer@proton.me)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/GvxfYTc59g)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tj3TRRYzFr)
 
 ---
 [![Donate](https://img.shields.io/badge/Donate-Bitcoin-orange)](#)
@@ -73,7 +73,7 @@
   <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/715dc9164225e8158c8c84a79867a368ed6a9651/hzr.svg" width=120>
   </p>
 
-### feito por Jox0101011 baseado no Cosme-R 
+### feito por hzr baseado no Cosme-R 
 <p> Menção Honrosa </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-CosmeR-000?style=for-the-badge&logo=github)](https://github.com/Cosme-R)

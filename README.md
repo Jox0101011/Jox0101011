@@ -21,11 +21,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BC13FE&center=true&width=435&lines=echo+%24whoami;sudo+hacker;automating+everything;Linux+enthusiast;Offensive+Security+lover" alt="Typing SVG" />
 </p>
 
-## 🚀 Atualmente estudando
+## Atualmente estudando:
+- ASM(x86 e 16 bits)
+- Low level
+- C sem/com libc
+- Entre outras coisas..
+
+> Amo o Minimalismo
 
 - 🌱 *Sempre aprendendo algo novo*
-- 🔐 **Cibersegurança ofensiva**
-- ⛏️ **Construção de Novas ferramentas**
+- 🔐 **Cibersegurança**
+- ⛏️ **Construção de Novas ferramentas e Libs**
 - 🔥 **Low level**
 - 🐧 **Automatizando tarefas no Linux**
 
@@ -66,7 +72,7 @@
 ---
 [![Donate](https://img.shields.io/badge/Donate-Bitcoin-orange)](#)
 
-**Bitcoin address:**  
+**Bitcoin address:**
 `bc1qc7mvj66qsy3urfjy6a5x987kqv9723p6e4s7g6`
 
 <p align="center">

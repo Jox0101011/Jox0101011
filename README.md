@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/p6S42Q8AvM4AAAAC/mysterious-girlfriend-x-nazo-no-kanojo-x.gif" width=500 />
+  <img src="https://giffiles.alphacoders.com/995/9950.gif" width=500 />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jox0101011&color=blueviolet)

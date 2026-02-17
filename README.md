@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/995/9950.gif" width=500 />
+  <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/refs/heads/main/1.gif" width=500 />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jox0101011&color=blueviolet)

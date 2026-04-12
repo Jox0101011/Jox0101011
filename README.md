@@ -9,7 +9,7 @@
 ![Forks](https://img.shields.io/github/forks/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ![Issues](https://img.shields.io/github/issues/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=Jox0101011&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jox0101011&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
 ![Hacker](https://img.shields.io/badge/Hack_the_Planet-000000?style=for-the-badge&logo=protonmail&logoColor=white)

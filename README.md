@@ -70,6 +70,12 @@
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Tj3TRRYzFr)
 
 ---
+<p align="center">
+  <img
+    height="150"
+    src="https://github-readme-stats-sage-seven-49.vercel.app/api?username=jox0101011&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=D1D5DB&text_color=D1D5DB&icon_color=94A3B8&bg_color=00000000"
+  />
+
 [![Donate](https://img.shields.io/badge/Donate-Bitcoin-orange)](#)
 
 **Bitcoin address:**

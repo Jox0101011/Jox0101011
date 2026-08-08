@@ -35,7 +35,7 @@
 
 > Amo o Minimalismo
 
-<p> <img src="https://" width="18" height="18" alt="Aprendizado" /> <i>A cada dia aprendendo algo novo</i> </p>
+<p> <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/9be5a84fd0361c29bb85b5a455c3b3c1d9013579/leaf-svgrepo-com.svg" width="18" height="18" alt="Aprendizado" /> <i>A cada dia aprendendo algo novo</i> </p>
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="18" height="18" alt="Cibersegurança" /> <strong>Cibersegurança</strong> </p>
 

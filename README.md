@@ -66,9 +66,9 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jox0101011&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact" height="200" />
+  <img src="https://github-readme-stats.vercel.api/api/top-langs/?username=Jox0101011&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=Jox0101011&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
 </p>
 

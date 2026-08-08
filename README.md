@@ -35,9 +35,9 @@
 
 > Amo o Minimalismo
 
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaf/leaf-original.svg" width="18" height="18" alt="Aprendizado" /> <i>A cada dia aprendendo algo novo</i> </p>
+<p> <img src="https://" width="18" height="18" alt="Aprendizado" /> <i>A cada dia aprendendo algo novo</i> </p>
 
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/letsencrypt/letsencrypt-original.svg" width="18" height="18" alt="Cibersegurança" /> <strong>Cibersegurança</strong> </p>
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="18" height="18" alt="Cibersegurança" /> <strong>Cibersegurança</strong> </p>
 
 <p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="18" height="18" alt="Ferramentas" /> <strong>Construção de Novas ferramentas e Libs</strong> </p>
 

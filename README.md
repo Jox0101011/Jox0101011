@@ -67,9 +67,8 @@
 ---
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=github-compact" height="200" />
-  <img src="https://github-readme-stats.vercel.api/api/top-langs/?username=Jox0101011&layout=compact&theme=midnight-purple&hide_border=true&hide=html,css,makefile&langs_count=10&size_weight=0.3&count_weight=0.7&exclude_repo=repositorio-indesejado" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jox0101011&theme=midnight-purple&hide_border=true&show_icons=true&line_height=24" height="200" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jox0101011&theme=github-compact" height="200" />
+<a href="https://github.com/Jox0101011" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=Jox0101011&layout=compact&stats_format=percentages&theme=default&hide_border=false&border_radius=50&card_width=466&locale=pt-br&custom_title=Linguagens+Mais+Usadas&hide=html%2Cm4&langs_count=10" alt="Linguagens Mais Usadas" width="466" height="auto" loading="lazy" /></a>
 </p>
 
 ---

@@ -7,6 +7,8 @@
 ![Languages](https://img.shields.io/github/languages/top/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ![Stars](https://img.shields.io/github/stars/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ![Forks](https://img.shields.io/github/forks/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
+
+
 ![Issues](https://img.shields.io/github/issues/Jox0101011/Jox0101011?style=for-the-badge&color=bc13fe)
 ---
 
@@ -21,19 +23,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=BC13FE&center=true&width=435&lines=echo+%24whoami;sudo+hacker;automating+everything;Linux+enthusiast;Offensive+Security+lover" alt="Typing SVG" />
 </p>
 
+
+
 ## Atualmente estudando:
-- ASM(x86 e 16 bits)
-- Low level
-- C sem/com libc
-- Entre outras coisas..
+- Ruby & C
+- Ciencia da Computação
+- Criação de Novos Protocolos
+- Codigo morse e outras formas de comunicações
+- Anarquismo e formas de governos anti-capitalista
+- LaTeX e Semelhantes
 
 > Amo o Minimalismo
 
-- 🌱 *Sempre aprendendo algo novo*
-- 🔐 **Cibersegurança**
-- ⛏️ **Construção de Novas ferramentas e Libs**
-- 🔥 **Low level**
-- 🐧 **Automatizando tarefas no Linux**
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaf/leaf-original.svg" width="18" height="18" alt="Aprendizado" /> <i>A cada dia aprendendo algo novo</i> </p>
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/letsencrypt/letsencrypt-original.svg" width="18" height="18" alt="Cibersegurança" /> <strong>Cibersegurança</strong> </p>
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="18" height="18" alt="Ferramentas" /> <strong>Construção de Novas ferramentas e Libs</strong> </p>
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="18" height="18" alt="Low level" /> <strong>Low level</strong> </p>
+
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" height="18" alt="Linux" /> <strong>Automatizando tarefas no Linux</strong> </p>
 
 ---
 
@@ -85,7 +95,9 @@
   <img src="https://raw.githubusercontent.com/Jox0101011/Jox0101011/715dc9164225e8158c8c84a79867a368ed6a9651/hzr.svg" width=120>
   </p>
 
-### feito por hzr baseado no Cosme-R 
+
+
+### feito por hzr(aka lay) baseado no Cosme-R 
 <p> Menção Honrosa </p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-CosmeR-000?style=for-the-badge&logo=github)](https://github.com/Cosme-R)
